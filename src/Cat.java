@@ -1,9 +1,4 @@
-/*
-In order to help learn course concepts,
-I worked on the homework with Leul Webute,
-discussed homework topics and issues with Leul Webute,
-and/or consulted related material that can be found at NA.
-*/
+
 
 /**
  * This class represents Cat which extends Pet.

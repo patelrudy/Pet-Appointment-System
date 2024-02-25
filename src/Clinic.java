@@ -1,9 +1,3 @@
-/*
-In order to help learn course concepts,
-I worked on the homework with Leul Webute,
-discussed homework topics and issues with Leul Webute,
-and/or consulted related material that can be found at NA.
-*/
 
 import java.util.Scanner;
 import java.io.File;
